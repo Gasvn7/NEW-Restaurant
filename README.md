@@ -74,10 +74,10 @@ El proyecto estará diseñado para mostrar habilidades de desarrollo web full st
 ---
 
 ## 5. Tecnologías Propuestas
-- **Frontend**: React (o Vue.js) + CSS (o TailwindCSS/Bootstrap).
-- **Backend**: Node.js (Express) o Django.
-- **Base de datos**: MongoDB o PostgreSQL.
-- **Hosting**: Vercel, Netlify o AWS (opcional).
+- **Frontend**: React + TailwindCSS.
+- **Backend**: Node.js (Express).
+- **Base de datos**: MongoDB.
+- **Hosting**: Vercel o Netlify.
 
 ---
 
