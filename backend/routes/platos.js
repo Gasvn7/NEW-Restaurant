@@ -7,4 +7,10 @@ router.get('/', platosController.obtenerPlatos);
 
 router.post('/', platosController.crearPlato);
 
+router.get('/:id', platosController.obtenerPlato);
+
+router.put('/:id', platosController.editarPlato);
+
+router.delete('/:id', platosController.eliminarPlato);
+
 module.exports = router;
